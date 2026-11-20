@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "lang": "id",
+    "documentTitle": "CV - Moh. Novil Ma'arij",
+    "pdfFileName": "CV_Moh_Novil_Maarij.pdf"
+  },
+  "profile": {
+    "name": "MOH. NOVIL MA'ARIJ",
+    "contacts": [
+      {
+        "label": "+6285955115333",
+        "href": "tel:+6285955115333"
+      },
+      {
+        "label": "mohnovilm@gmail.com",
+        "href": "mailto:mohnovilm@gmail.com"
+      },
+      {
+        "label": "https://www.linkedin.com/in/novil-m/",
+        "href": "https://www.linkedin.com/in/novil-m/"
+      },
+      {
+        "label": "https://github.com/Nvl123",
+        "href": "https://github.com/Nvl123"
+      }
+    ],
+    "summary": "Saya adalah mahasiswa S1 Teknik Informatika di Universitas Negeri Surabaya yang memiliki semangat tinggi dalam berbagi ilmu dan membangun talenta digital muda. Sebagai alumni Bangkit Academy dan saat ini menjadi cohort Machine Learning di Coding Camp by DBS Foundation, saya terbiasa belajar dalam ekosistem intensif dan kolaboratif berbasis teknologi."
+  },
+  "sections": [
+    {
+      "id": "experience",
+      "title": "Pengalaman Kerja",
+      "type": "entries",
+      "items": [
+        {
+          "organization": "Anugerah Digital Printing",
+          "location": "Sumenep",
+          "period": "Aug 2021 - Dec 2021",
+          "role": "Desainer Grafis",
+          "description": "Percetakan swasta yang melayani berbagai kebutuhan cetak, mulai dari desain grafis, pencetakan produk komersial, hingga bahan promosi untuk pelanggan individu dan bisnis.",
+          "highlights": [
+            "Membuat desain banner pernikahan yang sesuai dengan tema klien, dengan menggunakan Canva dan Adobe Photoshop. Menyediakan solusi kreatif untuk kebutuhan dekorasi acara pernikahan."
+          ]
+        },
+        {
+          "organization": "PT. Radnext Digital Indonesia",
+          "location": "Surabaya",
+          "period": "Feb 2025 - Jun 2025",
+          "role": "Administrator Jaringan",
+          "description": "Perusahaan yang bergerak pada bidang layanan solusi digital. Mulai dari layanan koneksi Internet, layanan Cloud atau Bare Metal Server, Domain Name System (DNS), sampai dengan layanan keamanan digital produk.",
+          "highlights": [
+            "Mewakili perusahaan dalam membimbing siswa SMK Telkom Sidoarjo dalam praktikum monitoring jaringan dan virtualisasi menggunakan Proxmox, serta memberikan pelatihan teknis terkait konfigurasi dan pemantauan jaringan virtualisasi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Pendidikan",
+      "type": "entries",
+      "items": [
+        {
+          "organization": "Universitas Negeri Surabaya",
+          "location": "Surabaya",
+          "period": "Aug 2022 - Jul 2026",
+          "role": "Bachelor of Informatika, 3.89/4.00",
+          "description": "",
+          "highlights": [
+            "Pemegang hak cipta atas karya Poster Carpalizer Smart Glove, Maskot Si Capa, dan Logo Carpalizer yang telah dipublikasikan secara resmi melalui Direktorat Jenderal Kekayaan Intelektual (DJKI).",
+            "Anggota Tim PKM-KC (Carpalizer) yang lolos ke ajang PIMNAS ke-37 di Universitas Airlangga, bertugas sebagai Android Developer dan Editor Media Sosial. Berkontribusi dalam pengembangan aplikasi berbasis Kotlin serta mengelola konten media sosial untuk mendukung publikasi tim.",
+            "Masuk dalam 10 besar nominasi finalis pada kompetisi Innovation Challenge of Excellence (I-Con) dengan tema \"The Next Port Technology\", melalui ide inovatif di bidang Digital Innovation dan Sistem Informasi untuk kemajuan dunia logistik.",
+            "Peserta Samsung Innovation Campus (SIC) batch 6.",
+            "Anggota Tim PKM-KC (EyeSphere) yang memperoleh pendanaan PKM-KC 2025 dan lolos ke Pekan Ilmiah Mahasiswa Nasional (PIMNAS) ke-38 di Universitas Hasanuddin. Bertanggung jawab sebagai Android Developer dan Backend Developer, dengan kontribusi dalam pengembangan aplikasi Android, perancangan serta implementasi layanan backend, dan integrasi komunikasi antara aplikasi dengan server.",
+            "Pemegang Hak Cipta atas Buku Manual Penggunaan Alat EyeSphere dan Buku Manual Penggunaan Aplikasi My EyeSphere yang telah tercatat dan dipublikasikan secara resmi oleh Direktorat Jenderal Kekayaan Intelektual (DJKI).",
+            "Alumni Bangkit Academy 2024 (Batch 2) – Mobile Development, lulus dengan rata-rata nilai akhir 90.56. Menguasai pengembangan aplikasi Android menggunakan Kotlin, Jetpack Compose, dan Firebase, serta menyelesaikan proyek Capstone kolaboratif.",
+            "Alumni Coding Camp Powered by DBS Foundation – Machine Learning Engineer, lulus dengan rata-rata nilai akhir 92.50 setelah menyelesaikan pelatihan intensif di bidang machine learning dan kecerdasan buatan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "organizations",
+      "title": "Pengalaman Kepanitiaan",
+      "type": "entries",
+      "items": [
+        {
+          "organization": "PKKMB Tingkat Universitas",
+          "period": "Sep 2023",
+          "role": "Media dan Jaringan",
+          "highlights": [
+            "Menjadi admin live streaming serta mendesain layout kegiatan untuk mendukung kelancaran acara."
+          ]
+        },
+        {
+          "organization": "PKKMB Tingkat Fakultas Teknik",
+          "period": "Sep 2023",
+          "role": "Publikasi dan Dokumentasi",
+          "highlights": [
+            "Mendesain feed Instagram selama kegiatan untuk mendukung publikasi acara.",
+            "Mendokumentasikan kegiatan untuk keperluan arsip dan media sosial."
+          ]
+        },
+        {
+          "organization": "ASEAN University Games",
+          "location": "Surabaya",
+          "period": "Jun 2024",
+          "role": "Konsumsi",
+          "highlights": [
+            "Mendistribusikan konsumsi untuk seluruh panitia dan atlet selama kegiatan."
+          ]
+        },
+        {
+          "organization": "PKKMB Tingkat Fakultas",
+          "period": "Sep 2024",
+          "role": "Desainer Grafis",
+          "highlights": [
+            "Admin Live Streaming Zoom dan YouTube.",
+            "Bertanggung jawab dalam mendesain logo dan maskot kegiatan untuk mendukung acara."
+          ]
+        },
+        {
+          "organization": "Overseas Education & Learning Program Nanyang University",
+          "period": "Nov 2024",
+          "role": "Publikasi dan Dokumentasi",
+          "highlights": [
+            "Menangani tampilan video pada videotron selama acara.",
+            "Mendesain sertifikat untuk peserta dan panitia."
+          ]
+        },
+        {
+          "organization": "International Competition the 4th GAYATAMA",
+          "period": "Oct 2024 - Dec 2024",
+          "role": "Desainer Grafis",
+          "highlights": [
+            "Berperan sebagai admin live streaming Zoom dan YouTube.",
+            "Bertanggung jawab dalam menyediakan seluruh kebutuhan desain kegiatan, mulai dari logo, maskot, sertifikat, cover YouTube, poster, hingga cover buku panduan."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Skill",
+      "type": "skills",
+      "items": [
+        {
+          "category": "Soft Skills",
+          "year": "2023",
+          "detail": "Mastering Adobe Photoshop - Rubrik Grafis"
+        },
+        {
+          "category": "Hard Skills",
+          "year": "2024",
+          "detail": "Figma for UI/UX Design - MySkill"
+        },
+        {
+          "category": "Hard Skills",
+          "year": "2024",
+          "detail": "Junior Android Developer - Bangkit Academy"
+        }
+      ]
+    }
+  ]
+}

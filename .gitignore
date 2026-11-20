@@ -1,0 +1,6 @@
+dist/
+node_modules/
+72084cd82f656c579be21369a7012bf0.pdf
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,13 @@
+{
+  "name": "novil-resume",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ATS-friendly CV as code with automated PDF generation and GitHub Pages deployment",
+  "scripts": {
+    "build:html": "node scripts/build-html.mjs",
+    "build:pdf": "node scripts/build-pdf.mjs",
+    "build": "node scripts/build-pdf.mjs",
+    "dev": "node scripts/dev.mjs"
+  }
+}
