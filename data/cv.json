@@ -33,13 +33,15 @@
       "type": "entries",
       "items": [
         {
-          "organization": "Anugerah Digital Printing",
-          "location": "Sumenep",
-          "period": "Aug 2021 - Dec 2021",
-          "role": "Desainer Grafis",
-          "description": "Percetakan swasta yang melayani berbagai kebutuhan cetak, mulai dari desain grafis, pencetakan produk komersial, hingga bahan promosi untuk pelanggan individu dan bisnis.",
+          "organization": "Codero Education",
+          "location": "Surabaya",
+          "period": "Aug 2026 - Present",
+          "role": "Coding & Robotics Teacher",
+          "description": "Lembaga pendidikan teknologi di Indonesia yang berfokus pada pembelajaran coding, robotika, dan STEAM untuk anak-anak dan remaja melalui pendekatan berbasis proyek (Project-Based Learning).",
           "highlights": [
-            "Membuat desain banner pernikahan yang sesuai dengan tema klien, dengan menggunakan Canva dan Adobe Photoshop. Menyediakan solusi kreatif untuk kebutuhan dekorasi acara pernikahan."
+            "Mengajar materi dasar pemrograman (termasuk Scratch) dan robotika secara interaktif kepada siswa dengan pendekatan Project-Based Learning.",
+            "Membimbing siswa dalam merancang, merakit, serta memprogram proyek coding dan robotika untuk melatih logika komputasional dan pemecahan masalah (problem solving).",
+            "Menyusun penyampaian materi yang adaptif sesuai tingkat usia siswa serta mengevaluasi perkembangan belajar dan hasil proyek di setiap sesi kelas."
           ]
         },
         {
@@ -50,6 +52,16 @@
           "description": "Perusahaan yang bergerak pada bidang layanan solusi digital. Mulai dari layanan koneksi Internet, layanan Cloud atau Bare Metal Server, Domain Name System (DNS), sampai dengan layanan keamanan digital produk.",
           "highlights": [
             "Mewakili perusahaan dalam membimbing siswa SMK Telkom Sidoarjo dalam praktikum monitoring jaringan dan virtualisasi menggunakan Proxmox, serta memberikan pelatihan teknis terkait konfigurasi dan pemantauan jaringan virtualisasi."
+          ]
+        },
+        {
+          "organization": "Anugerah Digital Printing",
+          "location": "Sumenep",
+          "period": "Aug 2021 - Dec 2021",
+          "role": "Desainer Grafis",
+          "description": "Percetakan swasta yang melayani berbagai kebutuhan cetak, mulai dari desain grafis, pencetakan produk komersial, hingga bahan promosi untuk pelanggan individu dan bisnis.",
+          "highlights": [
+            "Membuat desain banner pernikahan yang sesuai dengan tema klien, dengan menggunakan Canva dan Adobe Photoshop. Menyediakan solusi kreatif untuk kebutuhan dekorasi acara pernikahan."
           ]
         }
       ]
