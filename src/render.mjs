@@ -12,6 +12,15 @@ function escapeHtml(value) {
     .replace(/'/g, '&#39;');
 }
 
+/**
+ * Escapes HTML and converts **bold** inline markers into <strong> tags.
+ * @param {string} value
+ * @returns {string}
+ */
+function formatInlineText(value) {
+  return escapeHtml(value).replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+}
+
 function renderContact(contact) {
   const label = escapeHtml(contact.label);
   if (!contact.href) {
@@ -43,7 +52,7 @@ function renderEntries(items) {
       const listHtml =
         highlights.length > 0
           ? `<ul class="entry-list">\n${highlights
-              .map((bullet) => `          <li>${escapeHtml(bullet)}</li>`)
+              .map((bullet) => `          <li>${formatInlineText(bullet)}</li>`)
               .join('\n')}\n        </ul>`
           : '';
 

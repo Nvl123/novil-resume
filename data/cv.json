@@ -37,11 +37,12 @@
           "location": "Surabaya",
           "period": "Aug 2026 - Present",
           "role": "Coding & Robotics Teacher",
-          "description": "Lembaga pendidikan teknologi di Indonesia yang berfokus pada pembelajaran coding, robotika, dan STEAM untuk anak-anak dan remaja melalui pendekatan berbasis proyek (Project-Based Learning).",
+          "description": "Learning center yang berfokus pada coding, robotika, game development, dan AI untuk anak dan remaja usia 3–17 tahun melalui pendekatan Project-Based Learning, dengan 20 center dan 90+ sekolah mitra di Indonesia.",
           "highlights": [
-            "Mengajar materi dasar pemrograman (termasuk Scratch) dan robotika secara interaktif kepada siswa dengan pendekatan Project-Based Learning.",
-            "Membimbing siswa dalam merancang, merakit, serta memprogram proyek coding dan robotika untuk melatih logika komputasional dan pemecahan masalah (problem solving).",
-            "Menyusun penyampaian materi yang adaptif sesuai tingkat usia siswa serta mengevaluasi perkembangan belajar dan hasil proyek di setiap sesi kelas."
+            "Mengajar **robotika dan pemrograman berbasis proyek** menggunakan UKIT, Jimu Robot, dan Arduino, mencakup perakitan mekanik, integrasi sensor, pemrograman, pengujian, dan troubleshooting.",
+            "Mengampu kelas **Scratch, GDevelop, dan Python** dengan materi yang disesuaikan berdasarkan jenjang usia, kemampuan, dan tingkat kompleksitas proyek siswa.",
+            "Membimbing siswa mengembangkan proyek **Arduino end-to-end**, mulai dari perancangan rangkaian dan penulisan kode hingga pengujian serta troubleshooting perangkat keras dan perangkat lunak.",
+            "Menyesuaikan alur pembelajaran berdasarkan kemampuan siswa serta mengevaluasi hasil proyek untuk mengidentifikasi kendala teknis dan perkembangan kemampuan **computational thinking dan problem solving**."
           ]
         },
         {
